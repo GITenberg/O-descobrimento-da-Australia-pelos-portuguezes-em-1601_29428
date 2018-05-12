@@ -1,0 +1,47 @@
+_repo: O-descobrimento-da-Australia-pelos-portuguezes-em-1601_29428
+_version: 0.1.0
+alternative_title: O descobrimento da Austrália pelos portugueses em 1601
+contributor:
+  translator:
+    agent_name: Lacerda, José Maria Almeida e Araújo de Portugal Correia de
+    aliases:
+    - Lacerda, Jose Maria Almeida e Araujo de Portugal Correia de
+    - Lacerda, José de
+    birthdate: 1802
+    deathdate: 1877
+    gutenberg_agent_id: '33908'
+    url: http://www.gutenberg.org/2009/agents/33908
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Major, Richard Henry
+    alias: Major, R. H. (Richard Henry)
+    birthdate: 1818
+    deathdate: 1891
+    gutenberg_agent_id: '33907'
+    url: http://www.gutenberg.org/2009/agents/33907
+description: ''
+gutenberg_bookshelf: PT Navegações e Explorações
+gutenberg_issued: '2009-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29428'
+language: pt
+language_note:
+- This ebook uses 19th century spelling.
+- "Este livro eletrónico usa a ortografia da edição em papel do século XIX. \r\nPara\
+  \ ajudar o Project Gutenberg a atualizar a ortografia desta obra, visite a página\
+  \ http://www.gutenberg.org/wiki/PT_Ortografia ."
+production_note: Produced by Pedro Saborano (produced from scanned images of public
+  domain material from Google Book Search)
+publication_note: "Lisboa:\r\nTypographia da Academia\r\n1863"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DU'
+- !lcsh 'Australia -- Discovery and exploration'
+title: O descobrimento da Australia pelos portuguezes em 1601
+url: http://www.gutenberg.org/ebooks/29428
