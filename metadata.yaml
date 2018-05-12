@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '33907'
     url: http://www.gutenberg.org/2009/agents/33907
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29428#O-descobrimento-da-Australia-pelos-portuguezes-em-1601
 gutenberg_bookshelf: PT Navegações e Explorações
 gutenberg_issued: '2009-07-17'
 gutenberg_type: Text
